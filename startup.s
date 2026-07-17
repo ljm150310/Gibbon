@@ -1,5 +1,5 @@
 .syntax unified
-.cpu cortex-m3
+.cpu cortex-m3 
 .thumb
 
 .equ SRAM_ORIGIN,  0x20000000
@@ -17,7 +17,7 @@ _vector_table:
     .word Default_Handler
     .word Default_Handler
     .word 0
-    .word 0
+    .word o
     .word 0
     .word 0
     .word Default_Handler
