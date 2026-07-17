@@ -1,5 +1,4 @@
 # Gibbon
-GibbonOS: a tiny bare-metal kernel for STM32F103 (Cortex-M3), hand-written in ARM assembly.
-
-
+A development project for a personal mini computer based on the STM32F103C8T6 chip.
 🙃Throw a sprat to catch a whale
+let us write!
