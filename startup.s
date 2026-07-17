@@ -17,7 +17,7 @@ _vector_table:
     .word Default_Handler
     .word Default_Handler
     .word 0
-    .word o
+    .word 0
     .word 0
     .word 0
     .word Default_Handler
